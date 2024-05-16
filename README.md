@@ -11,7 +11,8 @@ Likes Counter: Monitor the number of likes.
 <h4>Screenshot:</h4> <img src="https://i.postimg.cc/tsK0B07y/Screenshot-91.png' border='0' alt='Screenshot-91">
 
 
-<h1>live link:</h1> 
+<h1>live link:</h1> https://nasrinnizam.github.io/Number_counter/
+
 
 <h4>Installation</h4>
 Clone the repository:
