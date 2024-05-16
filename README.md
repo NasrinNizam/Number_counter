@@ -1,11 +1,12 @@
 <h1>Number counter</h1>!
 Number Counter
-This repository contains a simple web application with three counters: Happy Clients, Reviews, and Likes. Each counter can be incremented to keep track of these values. This project is ideal for small businesses or personal websites that want to showcase their metrics dynamically.
+This repository contains a simple web application with three counters:
+Happy Clients, Reviews, and Likes. Each counter can be incremented to keep track of these values. This project is ideal for small businesses or personal websites that want to showcase their metrics dynamically.
 
 Features
-Happy Clients Counter: Track the number of happy clients.
-Reviews Counter: Keep a count of received reviews.
-Likes Counter: Monitor the number of likes.
+Happy Clients Counter: Track the number of happy clients.<br>
+Reviews Counter: Keep a count of received reviews.<br>
+Likes Counter: Monitor the number of likes.<br>
 
 
 <h4>Screenshot:</h4> <img src="https://i.postimg.cc/tsK0B07y/Screenshot-91.png' border='0' alt='Screenshot-91">
